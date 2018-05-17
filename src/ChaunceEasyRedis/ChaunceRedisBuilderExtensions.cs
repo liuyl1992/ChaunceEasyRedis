@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ChaunceEasyRedis
+namespace Chaunce.EasyRedis
 {
     public static class ChaunceRedisBuilderExtensions
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ChaunceEasyRedis
+namespace Chaunce.EasyRedis
 {
     /// <summary>
     /// Defines an endpoint.

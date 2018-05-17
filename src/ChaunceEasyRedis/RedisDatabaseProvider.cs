@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 
-namespace ChaunceEasyRedis
+namespace Chaunce.EasyRedis
 {
     public class RedisDatabaseProvider : IRedisDatabaseProvider
     { /// <summary>

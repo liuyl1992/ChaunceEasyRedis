@@ -4,7 +4,7 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ChaunceEasyRedis
+namespace Chaunce.EasyRedis
 {
     /// <summary>
     /// ConnectionMultiplexer对象管理帮助类
