@@ -1,5 +1,5 @@
 ![](https://cdn-images-1.medium.com/max/1600/0*4xFP6mgp50R8bY7g.)
-# ChaunceEasyRedis
+# :boom: ChaunceEasyRedis
 
 ChaunceEasyRedis is a free, open source,RedisService built on the .NETStandard platform.
 
@@ -13,7 +13,7 @@ ChaunceEasyRedis reference https://github.com/dotnetcore/EasyCaching
 ChaunceEasyRedis is free,open source.
 
 
-## How to use
+## :boom:  How to use
 ### Step 1 : ConfigureServices
 
 ```csharp
