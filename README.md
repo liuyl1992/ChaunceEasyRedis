@@ -1,6 +1,6 @@
 # ChaunceEasyRedis
 
-ChaunceEasyRedis is a free, open source, community-focused Content Management System built on the .NETStandard platform.
+ChaunceEasyRedis is a free, open source,RedisService built on the .NETStandard platform.
 
 [![ http://www.cnblogs.com/xiaoliangge/](https://badges.gitter.im/Join%20Chat.svg)](http://www.cnblogs.com/xiaoliangge/)
 
